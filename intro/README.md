@@ -1,11 +1,39 @@
 # Workshop Introduction and Overview
 
-# Introduction
+## Introduction to Oracle Converged Database
 
-Unlike the Oracle Database, limited function databases lead developers to write a lot more code and makes IT infrastructure overly complex, brittle, and fragile. As businesses reach for digital transformation, they are finding that integrating all the critical functionality they need — IoT, machine learning, blockchain, and more — via traditional methods isn’t working. What they need is a database that provides seamless convergence and integration of data types and workloads, availability, security, performance plus support for the latest development methodologies like SaaS, events, and CI/CD. This integration is critical to leveraging these technologies to transform the business. In this talk we'll introduce the concept behind such “data-driven applications” to help you open up conversations with your database customer about how to get the most from their Oracle Database when developing applications.
+Modern data driven applications are bringing in a lot more complexity with different data types(Relational, Document, Spatial, Graph) and workloads (Transactions,  analytics, ML,IOT). These require different database algorithms to solve and the two possible data strategies is Single Purpose best of breed database for each data type and workload OR use a converged database for all data types and workloads. 
 
-Oracle Spatial and Graph offers the industry’s most comprehensive, advanced database for enterprise spatial applications and high performance, secure graph databases. With Oracle Database 19c, in the cloud and on premises, Spatial and Graph powers applications from GIS and location services to fraud detection, social networks, linked data and knowledge management. The spatial features of Spatial and Graph include both basic spatial data management and analysis and additional high-end functionality including: spatial aggregates, 3D, LiDAR, geospatial imagery, geocoding, routing, and linear referencing. Oracle Spatial and Graph is included at no extra cost with all Oracle Database cloud services and on-prem editions.
+Once we have a single purpose separate database for spatial, ML, Blockchain, JSON, graph etc.. we are actually introducing a lot many variables which inherently is increasing the complexity.
 
+
+Single purpose Database would eventually end up doing a lot of custom work, writing more code independently using individual Proprietary API's and transaction models. Propagating and transforming all these changes with fragmented data all over the place creates lot more complexity and there is definitely a need to integrate it with a lot of customizations. This Integration is a job that never ends.
+
+The necessary features like security, availability,  scalability are just very complex to achieve, as each of them has its own models to be built. Later, to propagate any of the smallest change and integrate its a huge activity. 
+Availability, scalability, consistency, End to End security etc.. are very limited in their areas by weakest of their databases that are implemented. Combining all of them gives worst of weakness. These systems are JUST NO economies of scale.
+
+**What if we say all the above challenges are addressed in Converged database.**
+
+Oracle has been doing decades of innovation meeting the needs of mission critical complex systems by doing automation and this journey is continuing with emerging needs and solving the real world challenges like real time analytics, scale out architecture, zero down time, defend on cyberattacks. This automation expands to  Infrastructure, database, Automated Data center operations and machine learning. 
+
+Like, originally we had Calendar, messaging, clock, camera as individual  products and now are part of Mobile device. Similarly, key-value, ML, JSON, Transactional, Sharding earlier individual products but now are features of Converged DB.  
+
+Converged Database architecture approach creates the Data synergy and simplicity . Synergy across features makes the whole better than sum of parts. Oracle Converged Database Supports all Workloads( Traditional, Next Generation), Datatypes(Structured & Un-Structured )
+
+Converged DB makes it much simpler to develop apps. Just call the SQL to run ML, GRAPH, Spatial, JSON, Blockchain etc.
+
+Oracle converged DB on On-premise or on Oracle Cloud Delivers Union of Best Capabilities for each of data type and Workload. 
+All those bottlenecks (Data Consistency ,Data Security, Availability, Scalability, Cross Site Consistency) of single purpose database are solved in Oracle Converged Database. 
+
+All of these capabilities create better and informed decisions by increasing the value of information and reducing the time to business insight.
+
+
+
+
+ **Watch the video below for an overview of Oracle Converged Database Architecture**
+
+  [](youtube:9d76-LhgMQs)
+  [](youtube:Sbbw2mcrfiA)
 
 
 - [I have a Freetier or Oracle Cloud account](https://oracle.github.io/learning-library/data-management-library/database/multitenant/freetier/index.html)
@@ -20,14 +48,20 @@ If you don't have an Oracle Cloud account then you can quickly and easily sign u
 
 Click here to request your trial account: [https://www.oracle.com/cloud/free](https://www.oracle.com/cloud/free)
 
+## Workshops
+- [JSON](https://laxmi-oss.github.io/converged-database/json/freetier/)
+- [XML](https://laxmi-oss.github.io/converged-database/xml/freetier/)
+- [SPATIAL](https://laxmi-oss.github.io/converged-database/spatial/freetier/)
 
 ## Product Pages
 - [Oracle Database 19c](https://www.oracle.com/database/)
-- [Converged Database vs Specialized Databases](https://www.youtube.com/watch?v=Sbbw2mcrfiA)
-- [Converged Database Architecture](https://www.youtube.com/watch?v=9d76-LhgMQs)
 
+
+
+## Acknowledgements
+
+- **Authors/Contributors** - Brian Hengen,Balasubramanian Ramamoorthy,Arvind Bhope.
 
 ### Issues?
 Please submit an issue on our [issues](https://github.com/oracle/learning-library/issues) page. We review it regularly.
 
--- Oracle Database Product Management
