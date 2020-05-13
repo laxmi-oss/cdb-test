@@ -6,7 +6,7 @@
             "partnumber": "Ennnnn_01",
             "publisheddate": "03/10/2020",
             "contentid": "12nnnn",
-            "filename": "../intro/intro.md"
+            "filename": "./intro/intro.md"
         },
         {         
             "title": "Env Setup",
@@ -14,7 +14,7 @@
             "partnumber": "Ennnnn_01",
             "publisheddate": "03/10/2020",
             "contentid": "12nnnn",
-            "filename": "../labs/setup.md"
+            "filename": "./labs/setup.md"
         }
             ]
 }
