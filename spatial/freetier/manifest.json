@@ -1,0 +1,20 @@
+{
+    "tutorials": [
+        {         
+            "title": "Introduction and Overview",
+            "description": "Introduction to SPATIAL ",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "/intro/intro_spatial.md"
+        },
+        {         
+            "title": "Lab 1",
+            "description": "Create Table and Load Data",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "/labs/lab_spatial.md"
+        }
+                 ]
+}
