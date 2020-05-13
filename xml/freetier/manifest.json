@@ -1,0 +1,44 @@
+{
+    "tutorials": [
+        {         
+            "title": "Introduction and Overview",
+            "description": "Introduction to XML ",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "/intro/intro_xml.md"
+        },
+        {         
+            "title": "Env Setup",
+            "description": "Env setup",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "/labs/setup_xml.md"
+        },
+        {         
+            "title": "Lab:1 Query XML Content",
+            "description": "Env setup",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "/labs/xml_query.md"
+        },
+        {         
+            "title": "Lab:2 Insert and Update XML Data",
+            "description": "Env setup",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "/labs/xml_insert.md"
+        },
+        {         
+            "title": "Lab:2 Usage of XML Function",
+            "description": "Env setup",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "/labs/xml_fun.md"
+        }
+                 ]
+}
