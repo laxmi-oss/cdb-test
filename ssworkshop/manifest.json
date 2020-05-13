@@ -6,7 +6,7 @@
             "partnumber": "Ennnnn_01",
             "publisheddate": "03/10/2020",
             "contentid": "12nnnn",
-            "filename": "./intro/intro_json.md"
+            "filename": "./intro/intro-json.md"
         },
         {         
             "title": " Env Setup",
@@ -22,7 +22,7 @@
             "partnumber": "Ennnnn_01",
             "publisheddate": "03/10/2020",
             "contentid": "12nnnn",
-            "filename": "./labs/load_json.md"
+            "filename": "./labs/json_load.md"
         },
         {         
             "title": "Lab:2 Insert and Update JSON Data",
