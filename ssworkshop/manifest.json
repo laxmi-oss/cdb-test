@@ -6,7 +6,7 @@
             "partnumber": "Ennnnn_01",
             "publisheddate": "03/10/2020",
             "contentid": "12nnnn",
-            "filename": "../intro/intro-json.md"
+            "filename": "../../intro/intro-json.md"
         },
         {         
             "title": " Env Setup",
@@ -14,7 +14,7 @@
             "partnumber": "Ennnnn_01",
             "publisheddate": "03/10/2020",
             "contentid": "12nnnn",
-            "filename": "./labs/setup.md"
+            "filename": "../../labs/setup.md"
         },
         {         
             "title": "Lab:1 Load JSON Data",
@@ -22,7 +22,7 @@
             "partnumber": "Ennnnn_01",
             "publisheddate": "03/10/2020",
             "contentid": "12nnnn",
-            "filename": "./labs/json_load.md"
+            "filename": "../../labs/json_load.md"
         },
         {         
             "title": "Lab:2 Insert and Update JSON Data",
@@ -30,7 +30,7 @@
             "partnumber": "Ennnnn_01",
             "publisheddate": "03/10/2020",
             "contentid": "12nnnn",
-            "filename": "./labs/insert_json.md"
+            "filename": "../../labs/insert_json.md"
         },
         {         
             "title": "Lab:3 Usage of JSON Functions",
@@ -38,7 +38,7 @@
             "partnumber": "Ennnnn_01",
             "publisheddate": "03/10/2020",
             "contentid": "12nnnn",
-            "filename": "./labs/json_fun.md"
+            "filename": "../../labs/json_fun.md"
         }
     ]
 }
